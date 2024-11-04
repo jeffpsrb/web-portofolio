@@ -1,0 +1,275 @@
+#background {
+    background-image: url("../asset/top_background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+.text-title {
+    text-decoration: none;
+    color: white;
+}
+
+a.text-title:hover {
+    color: aqua;
+}
+
+ul {
+    display: flex;
+}
+
+ul li:first-child {
+    padding-left: 0px;
+}
+
+ul li {
+    list-style-type: none;
+    padding-left: 93px;
+}
+
+
+.home {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-profil {
+    margin-top: 149px;
+}
+
+.intro {
+    align-content: center;
+}
+
+.text-about {
+    justify-self: center;
+    margin-top: 93px;
+}
+.text-about h2 {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.about-bg {
+    background-image: url("../asset/top_background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 93px;
+}
+
+.bio h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.edu-bg {
+    background-image: url("../asset/edu-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    margin-top: 93px;
+}
+
+.edu-title {
+    margin-top: 93px;
+    justify-self: center;
+}
+.edu-title h2 {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.edu-bg h2 {
+    color: white;
+    font-size: 48px;
+}
+
+.edu-bg h6 {
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.edu-bg h6 span {
+    color: #FFBA31;
+}
+
+.work-title {
+    margin-top: 93px;
+    justify-self: center;
+}
+
+.work-title h2{
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.work-container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.work-bg {
+    background-image: url("../asset/work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 90vh;
+    margin-top: 93px;
+    display: grid; 
+    align-items: center;
+}
+
+.work-detail {
+    justify-items: end;
+    padding: 30px;
+}
+
+.work-detail h2 {
+    font-size: 48px;
+}
+
+.work-detail h6 {
+    font-size: 32px;
+    font-weight: 400;    
+}
+
+.work-detail h6 span {
+    color: white;
+}
+
+.skill-title {
+    margin-top: 93px;
+    justify-self: center;
+}
+
+.skill-title h2 {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.skill-bg {
+    background-image: url("../asset/skill-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    margin-top: 93px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill-detail {
+    justify-items: center;
+}
+
+.project-title {
+    margin-top: 93px;
+    justify-self: center;
+}
+.project-title h2 {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.project-container {
+    margin-top: 93px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project-detail {
+    width: 25%;
+    height: 50vh;
+    background-color: #FFBA31;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.contact-title {
+    margin-top: 93px;
+    justify-self: center;
+}
+.contact-title h2 {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.contact-bg {
+    background-image: url("../asset/contact-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    margin-top: 93px;
+    align-content: center;
+}
+
+.contact-bg .email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact-bg .email img {
+    padding-right: 20px;
+}
+.contact-bg .email h5 {
+    color: white;
+    font-weight: 500;
+}
+
+.contact-bg .phone {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    justify-content: center;
+}
+.contact-bg .phone img {
+    padding-right: 20px;
+}
+.contact-bg .phone h5 {
+    color: white;
+    font-weight: 500;
+}
+
+.contact-bg .linkedin {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    justify-content: center;
+}
+.contact-bg .linkedin img {
+    padding-right: 20px;
+}
+.contact-bg .linkedin h5 {
+    color: white;
+    font-weight: 500;
+}
+
+.contact-bg .instagram {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    justify-content: center;
+}
+.contact-bg .instagram img {
+    padding-right: 20px;
+}
+.contact-bg .instagram h5 {
+    color: white;
+    font-weight: 500;
+}

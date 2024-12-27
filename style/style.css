@@ -1,5 +1,5 @@
 #background {
-    background-image: url("../asset/top_background.png");
+    background-image: url("../asset/Group\ 20.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -52,7 +52,7 @@ ul li {
 }
 
 .about-bg {
-    background-image: url("../asset/top_background.png");
+    background-image: url("../asset/Group\ 20.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -100,7 +100,7 @@ ul li {
 }
 
 .edu-bg h6 span {
-    color: #FFBA31;
+    color: #B1F0F7;
 }
 
 .work-title {
@@ -119,7 +119,7 @@ ul li {
 }
 
 .work-bg {
-    background-image: url("../asset/work-bg.png");
+    background-image: url("../asset/Rectangle\ 7.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
@@ -158,7 +158,7 @@ ul li {
 }
 
 .skill-bg {
-    background-image: url("../asset/skill-bg.png");
+    background-image: url("../asset/Rectangle\ 8.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -193,7 +193,7 @@ ul li {
 .project-detail {
     width: 25%;
     height: 50vh;
-    background-color: #FFBA31;
+    background-color:#1CE2F8;
     padding: 30px;
     margin: 20px;
     border-radius: 20px;
